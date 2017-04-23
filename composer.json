@@ -1,0 +1,17 @@
+{
+  "name": "tivwp/tivwp-force-deactivate-plugins",
+  "description": "TIVWP Force Deactivate Plugins",
+  "type": "wordpress-plugin",
+  "require": {},
+  "license": "GPL-3.0",
+  "keywords": [
+    "wordpress",
+    "developer"
+  ],
+  "authors": [
+    {
+      "name": "Gregory Karpinsky (@tivnet)",
+      "role": "Developer"
+    }
+  ]
+}
