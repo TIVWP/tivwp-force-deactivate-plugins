@@ -1,7 +1,7 @@
 {
   "name": "tivwp/tivwp-force-deactivate-plugins",
   "description": "TIVWP Force Deactivate Plugins",
-  "type": "wordpress-plugin",
+  "type": "wordpress-muplugin",
   "require": {},
   "license": "GPL-3.0",
   "keywords": [
